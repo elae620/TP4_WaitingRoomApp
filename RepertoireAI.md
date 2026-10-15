@@ -1,4 +1,3 @@
-markdown = r"""# Compte rendu des échanges avec l’IA — TP Flutter et Supabase
 
 ## 1. Informations générales
 
