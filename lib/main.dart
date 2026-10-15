@@ -25,7 +25,7 @@ Future<void> main() async {
   }
 
   // 3. Initialiser Supabase
-  await Supabase.initialize(url: supabaseUrl, anonKey: supabaseKey);
+  await Supabase.initialize(url: supabaseUrl, publishableKey: supabaseKey);
 
   // 4. Lancer l'application
   runApp(const WaitingRoomApp());
